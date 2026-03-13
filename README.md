@@ -13,9 +13,9 @@ This project shows how to analyze and visualize data for Telangana Fair Price Sh
 3. Open a terminal (PowerShell) in this folder.
 4. Install required packages:
 
-<img src="Screenshot 2026-03-13 142936.png" alt="Description" width="300" height="200">
-<img src="Screenshot 2026-03-13 142943.png" alt="Description" width="300" height="200">
-<img src="Screenshot 2026-03-13 142951.png" alt="Description" width="300" height="200">
+<img src="Screenshot 2026-03-13 142936.png" alt="Description" width="600" height="400">
+<img src="Screenshot 2026-03-13 142943.png" alt="Description" width="600" height="400">
+<img src="Screenshot 2026-03-13 142951.png" alt="Description" width="600" height="400">
 
 ```powershell
 python -m pip install --upgrade pip

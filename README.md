@@ -8,9 +8,12 @@ This project shows how to analyze and visualize data for Telangana Fair Price Sh
 - CSV files with shop, transaction, and card data.
 
 ## How to set up (beginner friendly)
-1. Make sure you have Python installed (version 3.8+).
-2. Open a terminal (PowerShell) in this folder.
-3. Install required packages:
+1. Make sure you have Python installed (version 3.8+).i]'[
+2. eDX vbml,9ihjm z CVXU'=-[PIK,M 
+3. Open a terminal (PowerShell) in this folder.
+4. Install required packages:
+
+<img src="Screenshot 2026-03-13 142936.png" alt="Description" width="300" height="200">
 
 ```powershell
 python -m pip install --upgrade pip
